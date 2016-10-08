@@ -1,0 +1,4 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+title = "Hedron"
+languageCode = "en-us"
+theme = "solit"
