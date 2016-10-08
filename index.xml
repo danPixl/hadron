@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hadron</title>
+    <link>http://replace-this-with-your-hugo-site.com/index.xml</link>
+    <description>Recent content on Hadron</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Oct 2016 21:56:31 -0600</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The history of TCP/IP</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/History-Of-TCP-IP/</link>
+      <pubDate>Fri, 07 Oct 2016 21:56:31 -0600</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/History-Of-TCP-IP/</guid>
+      <description>
+
+&lt;p&gt;TCP/IP is essential to the internet as we know it today. Whether your talking to your friends or watching cat videos, all of it is made possible by it. So, why was TCP/IP developed?&lt;/p&gt;
+
+&lt;h4 id=&#34;arpanet&#34;&gt;ARPANET&lt;/h4&gt;
+
+&lt;p&gt;In the 60&amp;rsquo;s, the ARPANET was created by the US Department of Defense for scientests to share mainframes, big, (relatively) powerful computers. You can probably guess that only letting one scientest do one thing at a time was inefficient. Of course, other people in other countries had similar ideas. When computers started getting connected, we needed a system to help manage communications.&lt;/p&gt;
+
+&lt;h4 id=&#34;tcp&#34;&gt;TCP&lt;/h4&gt;
+
+&lt;p&gt;TCP was the only thing being used in the ARPANET. Someone named &lt;a href=&#34;https://en.wikipedia.org/wiki/Jon_Postel&#34;&gt;Jon Postel&lt;/a&gt; made a very important statement:&lt;/p&gt;
+
+&lt;p&gt;We are screwing up in our design of internet protocols by violating the principle of layering. Specifically we are trying to use TCP to do two things: serve as a host level end to end protocol, and to serve as an internet packaging and routing protocol. These two things should be provided in a layered and modular way. I suggest that a new distinct internetwork protocol is needed, and that TCP be used strictly as a host level end to end protocol.&lt;/p&gt;
+
+&lt;p&gt;What Jon was stating is that the version of TCP at that time was trying to do too much, specifically that it shouldn&amp;rsquo;t be handling both transport and netork layer activities. And it was! We know today that if we kept using just TCP, we would have large problems down the road. That observation led to TCP/IP.&lt;/p&gt;
+
+&lt;h4 id=&#34;tcp-ip&#34;&gt;TCP/IP&lt;/h4&gt;
+
+&lt;p&gt;It&amp;rsquo;s the 70&amp;rsquo;s, and ARPANET communications were generally hard to work on due to only using TCP, rather than pairing it with something else to create a layered system. TCP/IP was developed to solve this problem by &lt;a href=&#34;https://en.wikipedia.org/wiki/Vint_Cerf&#34;&gt;Vinton G. Cerf&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Bob_Kahn&#34;&gt;Robert E. Kahn&lt;/a&gt;. With the nice side effect of other countries adopting TCP/IP, the advent of &lt;a href=&#34;https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol&#34;&gt;HTTP&lt;/a&gt;, and computers becoming small enough to fit in homes, the Internet was born.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
