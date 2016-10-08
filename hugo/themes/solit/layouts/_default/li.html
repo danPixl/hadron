@@ -8,7 +8,7 @@
           {{ with .Section }}<li><i class="inline cursor"></i><a href="{{ $.Site.BaseURL }}{{ . | urlize }}/">{{ . }}</a></li>{{ end }}
           {{ if eq (getenv "HUGO_ENV") "DEV" }}
           <li>{{ .WordCount }} Words</li>
-          {{ if .IsDraft }}<li style="color: #2196f3;">DRAFT</li>{{ end }}
+          {{ if .IsDraft }}<li style="color: #AF1B3F;">DRAFT</li>{{ end }}
           {{ end }}
         </ul>
       </div>
