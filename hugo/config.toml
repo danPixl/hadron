@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "hadron.blazegaming.net/"
 title = "Hadron"
 languageCode = "en-us"
 theme = "solit"
