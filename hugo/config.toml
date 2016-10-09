@@ -1,4 +1,4 @@
-baseurl = "hadron.blazegaming.net/"
+baseurl = "http://hadron.blazegaming.net/"
 title = "Hadron"
 languageCode = "en-us"
 theme = "solit"

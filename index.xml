@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hadron</title>
-    <link>hadron.blazegaming.net/index.xml</link>
+    <link>http://hadron.blazegaming.net/index.xml</link>
     <description>Recent content on Hadron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Oct 2016 21:56:31 -0600</lastBuildDate>
-    <atom:link href="hadron.blazegaming.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://hadron.blazegaming.net/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The history of TCP/IP</title>
-      <link>/hadron.blazegaming.net/post/History-Of-TCP-IP/</link>
+      <link>http://hadron.blazegaming.net/post/History-Of-TCP-IP/</link>
       <pubDate>Fri, 07 Oct 2016 21:56:31 -0600</pubDate>
       
-      <guid>/hadron.blazegaming.net/post/History-Of-TCP-IP/</guid>
+      <guid>http://hadron.blazegaming.net/post/History-Of-TCP-IP/</guid>
       <description>
 
 &lt;p&gt;TCP/IP is essential to the internet as we know it today. Whether your talking to your friends or watching cat videos, all of it is made possible by it. So, why was TCP/IP developed?&lt;/p&gt;
